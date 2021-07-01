@@ -1,0 +1,1288 @@
+fileFormatVersion: 2
+guid: 067fded0e08233c45a34f4385a0ebab1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5105215632408399519
+    second: icon-disabled_0
+  - first:
+      213: 6774793218612487013
+    second: icon-disabled_1
+  - first:
+      213: -659647465743840172
+    second: icon-disabled_2
+  - first:
+      213: 8105375206242414184
+    second: icon-disabled_3
+  - first:
+      213: 3630227454650991410
+    second: icon-disabled_4
+  - first:
+      213: 4759855084340697449
+    second: icon-disabled_5
+  - first:
+      213: -7155121061302739275
+    second: icon-disabled_6
+  - first:
+      213: -9197214371081769576
+    second: icon-disabled_7
+  - first:
+      213: 8143803965836934244
+    second: icon-disabled_8
+  - first:
+      213: 8291381840420281634
+    second: icon-disabled_9
+  - first:
+      213: 4167423429016205054
+    second: icon-disabled_10
+  - first:
+      213: 2253669517176761170
+    second: icon-disabled_11
+  - first:
+      213: 2733033258997510443
+    second: icon-disabled_12
+  - first:
+      213: -491794520117300558
+    second: icon-disabled_13
+  - first:
+      213: -8341449182219092308
+    second: icon-disabled_14
+  - first:
+      213: -5861003040723639438
+    second: icon-disabled_15
+  - first:
+      213: -9144748268152912455
+    second: icon-disabled_16
+  - first:
+      213: -2650208379418567590
+    second: icon-disabled_17
+  - first:
+      213: -821226185111159162
+    second: icon-disabled_18
+  - first:
+      213: 8503909337659807481
+    second: icon-disabled_19
+  - first:
+      213: 175459800907432304
+    second: icon-disabled_20
+  - first:
+      213: 5440917455828153309
+    second: icon-disabled_21
+  - first:
+      213: -1063388658325184952
+    second: icon-disabled_22
+  - first:
+      213: 5019385455116213885
+    second: icon-disabled_23
+  - first:
+      213: -1727927083350421473
+    second: icon-disabled_24
+  - first:
+      213: -8395034119161465439
+    second: icon-disabled_25
+  - first:
+      213: 4314289178845488609
+    second: icon-disabled_26
+  - first:
+      213: -9042875373920365941
+    second: icon-disabled_27
+  - first:
+      213: -2100669896103563959
+    second: icon-disabled_28
+  - first:
+      213: -6379687818492719130
+    second: icon-disabled_29
+  - first:
+      213: 2416904307879669290
+    second: icon-disabled_30
+  - first:
+      213: 427394824133703059
+    second: icon-disabled_31
+  - first:
+      213: -6978302126176580467
+    second: icon-disabled_32
+  - first:
+      213: -6455765567548419112
+    second: icon-disabled_33
+  - first:
+      213: 5064393280819937600
+    second: icon-disabled_34
+  - first:
+      213: 707179953866579035
+    second: icon-disabled_35
+  - first:
+      213: -8069163992460558830
+    second: icon-disabled_36
+  - first:
+      213: 6453439367986174056
+    second: icon-disabled_37
+  - first:
+      213: 5624103144357917360
+    second: icon-disabled_38
+  - first:
+      213: 5327958630975365521
+    second: icon-disabled_39
+  - first:
+      213: 8561235036781117967
+    second: icon-disabled_40
+  - first:
+      213: 111297215060372419
+    second: icon-disabled_41
+  - first:
+      213: 8159260133515508704
+    second: icon-disabled_42
+  - first:
+      213: -7110970156057903822
+    second: icon-disabled_43
+  - first:
+      213: -4267951441405099360
+    second: icon-disabled_44
+  - first:
+      213: -2959653154790280195
+    second: icon-disabled_45
+  - first:
+      213: 2548777463194636724
+    second: icon-disabled_46
+  - first:
+      213: 8923660158097021261
+    second: icon-disabled_47
+  - first:
+      213: 2378121607986182032
+    second: icon-disabled_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon-disabled_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2157
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af96c395024de5d458bfe0bd343a5b3d
+      internalID: 5105215632408399519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2157
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e15c2c5f8f2d0a4f86ab26dc44c1ffd
+      internalID: 6774793218612487013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2066
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b572914fb64f14c8de12a3b136867a
+      internalID: -659647465743840172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2066
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd235ee63d01ee45b70ec06b8bdb638
+      internalID: 8105375206242414184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1976
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fdeee96a4c6e54e8df8aa1a7c6b3bd
+      internalID: 3630227454650991410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1976
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe15f48e767f44b8f29dee3e058786
+      internalID: 4759855084340697449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1886
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f98d45a9bf9700409d32555eca59831
+      internalID: -7155121061302739275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1886
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0eaceca78973a448659f805fad5b5c
+      internalID: -9197214371081769576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1796
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f398518a7b4e148bf6fbcc727cffe5
+      internalID: 8143803965836934244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1796
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf254e158b999e4f85d8d6b0dc163f6
+      internalID: 8291381840420281634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1706
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76baf7029acdd3245bf6111ca066a9b2
+      internalID: 4167423429016205054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1706
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7c7405da118bb42b610295a01047c4
+      internalID: 2253669517176761170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1617
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c58670f30080642bd1b6b761fc6eb8
+      internalID: 2733033258997510443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1616
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2da7a407b29e243a41d47d01cb991b
+      internalID: -491794520117300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1527
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3a0f09650f0354da4dbcea147917b6
+      internalID: -8341449182219092308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1527
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f4e56226f8b904f8436a07a4345dd5
+      internalID: -5861003040723639438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1437
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39040d4f6161fab429ba58bb7ba65d22
+      internalID: -9144748268152912455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1437
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d69d415e28a7c4980fe80b67f691e8
+      internalID: -2650208379418567590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1347
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fbc428553a154408c6bf038dad5e6d
+      internalID: -821226185111159162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1347
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11106c147b7fb38439802ca96473564f
+      internalID: 8503909337659807481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1257
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c2ef5d4f960334496ed46ce8cf8397
+      internalID: 175459800907432304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1257
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aebc6c4638427e40a25576bdcce8a4b
+      internalID: 5440917455828153309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1167
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba7179536addd040b58d829a76db74a
+      internalID: -1063388658325184952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1167
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a491e9d749ef4a469dc55ea2987995f
+      internalID: 5019385455116213885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129378d2d89a101489e76e92fa21d96f
+      internalID: -1727927083350421473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1077
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003154966f2ed7142b93bac5b337fe33
+      internalID: -8395034119161465439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc971a2e35cf0ad48919a5d48453d284
+      internalID: 4314289178845488609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 987
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23129ce5e254e9a4dae7d749a48296f4
+      internalID: -9042875373920365941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce12d9dba95f03a4389d00632ed2793c
+      internalID: -2100669896103563959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 897
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463d3c900fa16dc4ba37231902f2a30b
+      internalID: -6379687818492719130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca8b03d7a14c434e8bc8a02d1f45750
+      internalID: 2416904307879669290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 807
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b0dafc5ab98ed4a93a1f5e1cda1d4a
+      internalID: 427394824133703059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 717
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d837e8edb786a747960229476c3bca7
+      internalID: -6978302126176580467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 717
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3217cf832fa9b0c4b87992e75c0e491a
+      internalID: -6455765567548419112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880bebb18cb1ce418a4c508deba3aed
+      internalID: 5064393280819937600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 627
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb2a35c8dcc4134583e72d11b578015
+      internalID: 707179953866579035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25218396b6aee084d82a97c087f32e07
+      internalID: -8069163992460558830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 537
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bede22da00eb02418138a3dcc8ca5ac
+      internalID: 6453439367986174056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a50ea8de89f4e646833bedc0ee89457
+      internalID: 5624103144357917360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_39
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 447
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c61ea20392fea42b95b6938ecac33b
+      internalID: 5327958630975365521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5435747cf5218b34396720b5745cc880
+      internalID: 8561235036781117967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 357
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c7d56db5ea2246a0142e4a9e7f2b8
+      internalID: 111297215060372419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc29a515bb820147933349e2706b4b9
+      internalID: 8159260133515508704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 267
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1b728233095bc43afe0d10c4d6dba4
+      internalID: -7110970156057903822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a575dc87df9492546a80d5b5497b60a5
+      internalID: -4267951441405099360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 178
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b4e3915cab9b4aa251b6e061cd122
+      internalID: -2959653154790280195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3dad863449e604489d8bcb6666186a
+      internalID: 2548777463194636724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c06d2d46b1f44e42b5a1bf80f12c6da
+      internalID: 8923660158097021261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-disabled_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 65
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196014d953fb2ef43971d6dfbc186fd4
+      internalID: 2378121607986182032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b628b7d01e84bd94da1aa9bb83acdbad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
